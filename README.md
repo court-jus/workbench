@@ -5,4 +5,5 @@ but they deserve a better home.
 
 ## [Media manipulation tools](media/README.md)
 
+* `screenshot.sh`, to capture screenshots and apply actions on them
 * `screencast.sh`, a tool to capture screencasts
