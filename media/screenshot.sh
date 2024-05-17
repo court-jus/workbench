@@ -4,7 +4,7 @@ SHOTSDIR=${HOME}
 
 cd ${SHOTSDIR}
 
-if [ $1 == "-l" ]; then
+if [ "$1" == "-l" ]; then
 
     ls ${SHOTSDIR}/*scrot.png || exit
 
